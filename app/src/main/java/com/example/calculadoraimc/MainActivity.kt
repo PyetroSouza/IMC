@@ -276,7 +276,7 @@ fun IMCScreen(modifier: Modifier = Modifier) {
                             pesoInput = ""
                             resultadoIMC = 0.0
                             resultadoStatus = ""
-                            corCardResultado = corCardResultado\
+                            corCardResultado = corCardResultado
                         },
                         modifier = Modifier
                             .fillMaxWidth()
